@@ -45,7 +45,7 @@ title.addEventListener('click', doSomething())
 
 ### Quellen
 
-* Das [Mozilla Developer Network](https://developer.mozilla.org/ ) ist für Webentwickler eine der wichtigsten Quellen. Hier findet Ihr zu HTML, CSS, JavaScript und ihre Eigenheiten alle wichtigen Informationen
+* Das [Mozilla Developer Network](https://developer.mozilla.org/ ) ist für Webentwickler eine der wichtigsten Quellen. Hier findet Ihr zu HTML, CSS, *JavaScript* und ihre Eigenheiten alle wichtigen Informationen
 * [Scrimba](https://scrimba.com)  ist eine Community-Plattform mit vielen Video-Tutorials vielen wichtigen Themen der Webentwicklung. Der Clou an seinen Tutorials ist: Ihr könnt in allen Videos den Code des instructors verändern damit herumspielen
 
 
